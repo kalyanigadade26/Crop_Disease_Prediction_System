@@ -87,5 +87,7 @@ Evaluation metrics indicate that the model is capable of identifying patterns in
 
 ---
 
-## Author
-Kalyani Gadade
+## Group Members
+- Kalyani Gadade
+- Vedika Yadav
+- Rahul Jadhav
